@@ -8,9 +8,9 @@
       "active": true
     },
     {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/BzvdKo9gncs",
-      "#title": "RUPTLY",
+      "type": "facebook",
+      "#id": " https://www.facebook.com/UmbrellaRevolutionNewsfeed/videos/437594217078148/",
+      "#title": "Umbrella Revolution 遮打革命: Hong Kong's True Democracy Newsfeed",
       "active": true
     },
     {
@@ -19,7 +19,12 @@
       "#title": "Inty",
       "active": true
     },
-
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/481912425894160/",
+      "#title": "Stand News 立場新聞",
+      "active": true
+    },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/635671310282264/",
