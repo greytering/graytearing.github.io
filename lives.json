@@ -32,6 +32,12 @@
       "active": true
     },
     {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/IyzdR6XrV7s",
+      "#title": "Inty",
+      "active": true
+    },
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/481912425894160/",
       "#title": "Stand News 立場新聞",
