@@ -11,7 +11,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/_DY4PG_Hvw8",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -23,25 +23,25 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/1cJ9FfD5b8U",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/HER4GgvHUVw",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/IyzdR6XrV7s",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/gfzy26mVrR4",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -53,13 +53,13 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/cFm3HbHSP1g",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/o1Dgn_GrAWQ",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
@@ -71,15 +71,20 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/pel0fTRKk30",
       "#title": "Stand News 立場新聞",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/wLFgRHgKw48",
       "#title": "Stand News 立場新聞",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/PMEFNceHjEc",
+      "#title": "Stand News 立場新聞",
       "active": true
     },
-    
     
     
     
