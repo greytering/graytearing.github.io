@@ -1,5 +1,5 @@
 {
-  "visibleCount": 4,
+  "visibleCount": 6,
   "lives": [
     {
       "type": "youtube",
@@ -37,6 +37,17 @@
       "#title": "Inty",
       "active": true
     },
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/gfzy26mVrR4",
+      "#title": "Inty",
+      "active": true
+    },
+    
+    
+    
+    
+    
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/481912425894160/",
