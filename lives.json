@@ -14,6 +14,13 @@
       "active": true
     },
     {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/1cJ9FfD5b8U",
+      "#title": "Inty",
+      "active": true
+    },
+
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/icablenews/videos/635671310282264/",
       "#title": "icablenews",
