@@ -13,13 +13,6 @@
       "#title": "OFFLINE",
       "active": true
     },
-    
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/GQ_HJZGn1OU",
-      "#title": "OFFLINE",
-      "active": true
-    },
     {
       "type": "facebook",
       "#id": " https://www.facebook.com/UmbrellaRevolutionNewsfeed/videos/437594217078148/",
@@ -29,6 +22,12 @@
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/1cJ9FfD5b8U",
+      "#title": "Inty",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/HER4GgvHUVw",
       "#title": "Inty",
       "active": true
     },
