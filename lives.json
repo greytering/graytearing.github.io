@@ -73,7 +73,12 @@
       "#title": "Stand News 立場新聞",
       "active": true
     },
-    
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/wLFgRHgKw48",
+      "#title": "Stand News 立場新聞",
+      "active": true
+    },
     
     
     
