@@ -5,13 +5,13 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/GQ_HJZGn1OU",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": " https://www.facebook.com/UmbrellaRevolutionNewsfeed/videos/437594217078148/",
       "#title": "Umbrella Revolution 遮打革命: Hong Kong's True Democracy Newsfeed",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
