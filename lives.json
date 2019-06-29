@@ -3,6 +3,12 @@
   "lives": [
     {
       "type": "youtube",
+      "#id": "https://www.youtube.com/embed/AfhVz3j6qFY",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
       "#id": "https://www.youtube.com/embed/cFm3HbHSP1g",
       "#title": "OFFLINE",
       "active": false
@@ -83,7 +89,7 @@
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/PMEFNceHjEc",
       "#title": "Stand News 立場新聞",
-      "active": true
+      "active": false
     },
     
     
