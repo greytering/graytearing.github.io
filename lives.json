@@ -3,6 +3,19 @@
   "lives": [
     {
       "type": "youtube",
+      "#id": "https://www.youtube.com/embed/cFm3HbHSP1g",
+      "#title": "OFFLINE",
+      "active": false
+    },
+        {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/_DY4PG_Hvw8",
+      "#title": "OFFLINE",
+      "active": false
+    },
+    
+    {
+      "type": "youtube",
       "#id": "https://www.youtube.com/embed/GQ_HJZGn1OU",
       "#title": "OFFLINE",
       "active": false
