@@ -136,15 +136,15 @@
     
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/481912425894160/",
+      "#id": "https://www.facebook.com/standnewshk/videos/433144840572433/",
       "#title": "Stand News 立場新聞",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/icablenews/videos/635671310282264/",
+      "#id": "https://www.facebook.com/standnewshk/videos/357400154932787/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
