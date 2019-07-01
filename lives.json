@@ -57,10 +57,27 @@
     },
     {
       "type": "facebook",
-      "#id": " https://www.facebook.com/standnewshk/videos/2445795558804191/",
-      "#title": "Umbrella Revolution 遮打革命: Hong Kong's True Democracy Newsfeed",
+      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2293152654235902/",
+      "#title": "icablenews",
       "active": true
-
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/604228973314093/",
+      "#title": "RTHKcityforum",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/396854391177695/",
+      "#title": "RTHKcityforum",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/468440390366966/",
+      "#title": "RTHKcityforum",
+      "active": true
     },
     {
       "type": "youtube",
