@@ -1,13 +1,7 @@
 {
   "visibleCount": 9,
   "lives": [
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/484735288940012/",
-      "#title": "standnewshk",
-      "active": false
-    },
-   
+    
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/Pt2b26_7axc",
@@ -23,12 +17,6 @@
     },
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/M3OVose5JrI",
-      "#title": "OFFLINE",
-      "active": false
-    },
-    {
-      "type": "youtube",
       "#id": " https://www.youtube.com/embed/kKiNMWBTnzs",
       "#title": "OFFLINE",
       "active": true
@@ -38,22 +26,6 @@
       "#id": " https://www.youtube.com/embed/bDJvFKh3zx8",
       "#title": "OFFLINE",
       "active": true
-},
-   
-    
-    
-    
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/cFm3HbHSP1g",
-      "#title": "OFFLINE",
-      "active": false
-    },
-        {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/_DY4PG_Hvw8",
-      "#title": "OFFLINE",
-      "active": false
     },
     {
       "type": "facebook",
@@ -61,72 +33,6 @@
       "#title": "Umbrella Revolution 遮打革命: Hong Kong's True Democracy Newsfeed",
       "active": true
 
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/1cJ9FfD5b8U",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/HER4GgvHUVw",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/IyzdR6XrV7s",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/gfzy26mVrR4",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/8ftP3W7wFlg",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/cFm3HbHSP1g",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/o1Dgn_GrAWQ",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
-      "#title": "Stand News 立場新聞",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/pel0fTRKk30",
-      "#title": "Stand News 立場新聞",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/wLFgRHgKw48",
-      "#title": "Stand News 立場新聞",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/PMEFNceHjEc",
-      "#title": "Stand News 立場新聞",
-      "active": false
     },
     {
       "type": "facebook",
