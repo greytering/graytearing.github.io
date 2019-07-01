@@ -57,7 +57,7 @@
     },
     {
       "type": "facebook",
-      "#id": " https://www.facebook.com/truthfulnerss/videos/2254344414782612/",
+      "#id": " https://www.facebook.com/standnewshk/videos/2445795558804191/",
       "#title": "Umbrella Revolution 遮打革命: Hong Kong's True Democracy Newsfeed",
       "active": true
 
@@ -136,7 +136,7 @@
     
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/truthfulnerss/videos/2254344414782612/",
+      "#id": "https://www.facebook.com/standnewshk/videos/433144840572433/",
       "#title": "Stand News 立場新聞",
       "active": false
     },
@@ -289,7 +289,6 @@
       "#id": "https://www.facebook.com/RTHKcityforum/videos/2056599964649453/",
       "#title": "RTHKcityforum",
       "active": false
-    },
-    
+    }
   ]
 }
