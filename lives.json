@@ -68,18 +68,6 @@
       "active": true
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/396854391177695/",
-      "#title": "RTHKcityforum",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/468440390366966/",
-      "#title": "RTHKcityforum",
-      "active": true
-    },
-    {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/1cJ9FfD5b8U",
       "#title": "Inty",
@@ -156,12 +144,6 @@
       "#id": "https://www.facebook.com/standnewshk/videos/433144840572433/",
       "#title": "Stand News 立場新聞",
       "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2293152654235902/",
-      "#title": "icablenews",
-      "active": true
     },
     {
       "type": "facebook",
