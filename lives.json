@@ -10,7 +10,7 @@
    
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/Pt2b26_7axc",
+      "#id": " https://www.youtube.com/embed/ceJJ9sSNHH0",
       "#title": "OFFLINE",
       "active": true
     },
@@ -19,7 +19,7 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/pQeeo6ZqMds",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -31,13 +31,13 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/kKiNMWBTnzs",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/bDJvFKh3zx8",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
 },
    
     
@@ -59,13 +59,13 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/2293152654235902/",
       "#title": "icablenews",
-      "active": true
+      "active": false
     },
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/604228973314093/",
       "#title": "RTHKcityforum",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
