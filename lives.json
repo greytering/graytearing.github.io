@@ -10,11 +10,25 @@
    
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/ctcoyHm8JHs",
+      "#id": " https://www.youtube.com/embed/yqv4nr7g8Vc",
       "#title": "OFFLINE",
       "active": true
     },
     
+{
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/QSQb6xboU2Y",
+      "#title": "OFFLINE",
+      "active": true
+    },
+
+{
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/https://m.youtube.com/watch?v=QSQb6xboU2Y",
+      "#title": "OFFLINE",
+      "active": true
+    },
+
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/pQeeo6ZqMds",
