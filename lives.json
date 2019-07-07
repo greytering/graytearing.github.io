@@ -31,51 +31,53 @@
       "#title": "OFFLINE",
       "active": true
 },
-   
-    
-    
-    
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/cFm3HbHSP1g",
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/3372903266068549/",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
+
+
+
+
         {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/_DY4PG_Hvw8",
+      "type": "facebook",
+      "#id": "https://www.facebook.com/standnewshk/videos/639200836578161/",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
+
+
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2293152654235902/",
+      "#id": "https://www.facebook.com/standnewshk/videos/361742204540648/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/604228973314093/",
+      "#id": "https://www.facebook.com/inmediahk/videos/333115224283032/",
       "#title": "RTHKcityforum",
-      "active": false
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": " https://www.facebook.com/RTHKVNEWS/videos/2254225331496982/",
+      "#title": "Inty",
+      "active": true
+    },
+    {
+      "type": "facebook",
+      "#id": " https://www.facebook.com/hk01.news/videos/707006096415275/",
+      "#title": "Inty",
+      "active": true
     },
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/1cJ9FfD5b8U",
+      "#id": " https://www.facebook.com/hkucampustv/videos/447288679446965/",
       "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/HER4GgvHUVw",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/IyzdR6XrV7s",
-      "#title": "Inty",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
