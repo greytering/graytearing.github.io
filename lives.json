@@ -39,15 +39,15 @@
     },
     {
       "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/359191424721906/",
+      "#id": "https://www.facebook.com/hk01.news/videos/707006096415275/",
       "#title": "standnewshk",
-      "active": false
+      "active": true
     },
     {
-      "type": "youtube",
-      "#id": " https://www.youtube.com/embed/HjWbm_tZUME",
+      "type": "facebook",
+      "#id": " https://www.facebook.com/standnewshk/videos/450868435465817/",
       "#title": "OFFLINE",
-      "active": false
+      "active": true
     },
     
 {
