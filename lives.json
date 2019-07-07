@@ -14,6 +14,12 @@
       "active": true
     },
     {
+      "type": "facebook",
+      "#id": "https://www.facebook.com/inmediahk/videos/346378192696034/",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/f8lmRaKWc10",
       "#title": "OFFLINE",
