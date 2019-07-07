@@ -2,6 +2,36 @@
   "visibleCount": 9,
   "lives": [
     {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/w9xntoo3Keg",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/sEmocivlStA",
+      "#title": "OFFLINE",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/f8lmRaKWc10",
+      "#title": "OFFLINE",
+      "active": false
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/e0t62lzJ6-8",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/HjWbm_tZUME",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/359191424721906/",
       "#title": "standnewshk",
@@ -11,7 +41,7 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/HjWbm_tZUME",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     
 {
@@ -38,7 +68,7 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/e0t62lzJ6-8",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
