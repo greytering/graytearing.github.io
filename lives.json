@@ -23,7 +23,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/MangoDirections/videos/2526711517380214/",
       "#title": "OFFLINE",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
