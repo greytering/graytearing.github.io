@@ -32,28 +32,10 @@
       "active": true
 },
     {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/1Tg9f64A2s",
+      "type": "facebook",
+      "#id": "https://www.facebook.com/hk.nextmedia/videos/3372903266068549/",
       "#title": "OFFLINE",
       "active": true
-    },
-
-
-
-
-        {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/639200836578161/",
-      "#title": "OFFLINE",
-      "active": false
-    },
-
-
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/361742204540648/",
-      "#title": "icablenews",
-      "active": false
     },
     {
       "type": "facebook",
@@ -68,18 +50,6 @@
       "active": true
     },
     {
-      "type": "facebook",
-      "#id": " https://www.facebook.com/hk01.news/videos/707006096415275/",
-      "#title": "Inty",
-      "active": false
-    },
-    {
-      "type": "facebook",
-      "#id": " https://www.facebook.com/hkucampustv/videos/447288679446965/",
-      "#title": "Inty",
-      "active": false
-    },
-    {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/yBG46oe-MQA",
       "#title": "Inty",
@@ -87,16 +57,31 @@
     },
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/8ftP3W7wFlg",
+      "#id": " https://www.youtube.com/embed/T0rnHgP0xfE",
       "#title": "Inty",
-      "active": false
+      "active": true
     },
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/cFm3HbHSP1g",
+      "#id": " https://www.youtube.com/embed/s1Tg9f64A2s",
       "#title": "Inty",
-      "active": false
+      "active": true
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/o1Dgn_GrAWQ",
