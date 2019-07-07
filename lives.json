@@ -30,12 +30,6 @@
       "#id": " https://www.youtube.com/embed/--F0rCiAGDc",
       "#title": "OFFLINE",
       "active": true
-},
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/3372903266068549/",
-      "#title": "OFFLINE",
-      "active": false
     },
     {
       "type": "facebook",
@@ -103,13 +97,7 @@
       "#id": "https://www.youtube.com/embed/PMEFNceHjEc",
       "#title": "Stand News 立場新聞",
       "active": false
-    },
-    
-    
-    
-    
-    
-    
+    }, 
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/433144840572433/",
