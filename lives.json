@@ -67,39 +67,43 @@
       "#title": "Inty",
       "active": true
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/o1Dgn_GrAWQ",
+      "#id": " https://www.youtube.com/embed/s1Tg9f64A2s",
       "#title": "Inty",
-      "active": false
+      "active": true
     },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/T0rnHgP0xfE",
+      "#title": "Stand News 立場新聞",
+      "active": true
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
       "type": "facebook",
       "#id": "https://www.facebook.com/scmp/videos/2341797905911482/",
       "#title": "Stand News 立場新聞",
       "active": false
     },
-    {
-      "type": "youtube",
-      "#id": "https://www.youtube.com/embed/pel0fTRKk30",
-      "#title": "Stand News 立場新聞",
-      "active": false
-    },
+
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/wLFgRHgKw48",
