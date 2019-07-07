@@ -5,7 +5,7 @@
       "type": "facebook",
       "#id": "https://www.facebook.com/standnewshk/videos/359191424721906/",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
@@ -22,7 +22,7 @@
     },
 {
       "type": "facebook",
-      "#id": " https://www.facebook.com/NTDChinese/videos/375775439740317/",
+      "#id": " https://www.facebook.com/RTHKVNEWS/videos/693203657794561/",
       "#title": "OFFLINE",
       "active": true
     },
