@@ -2,50 +2,38 @@
   "visibleCount": 16,
   "lives": [
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/standnewshk/videos/639200836578161/",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/hk01.news/videos/707006096415275/",
-      "#title": "standnewshk",
-      "active": true
-    },
-    {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/HjWbm_tZUME",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "facebook",
-      "#id": " https://www.facebook.com/standnewshk/videos/361742204540648/",
+      "#id": " https://www.youtube.com/embed/MZvYGh3i13w",
       "#title": "OFFLINE",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/--F0rCiAGDc",
+      "#id": " https://www.youtube.com/embed/bi2mzbp",
       "#title": "OFFLINE",
       "active": true
     },
     {
-      "type": "facebook",
-      "#id": "https://www.facebook.com/inmediahk/videos/333115224283032/",
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/bi2mzbpami8",
+      "#title": "OFFLINE",
+      "active": true
+    },
+    {
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Vlt-8s00VKE",
       "#title": "RTHKcityforum",
       "active": true
     },
     {
-      "type": "facebook",
-      "#id": " https://www.facebook.com/RTHKVNEWS/videos/2254225331496982/",
+      "type": "youtube",
+      "#id": " https://www.youtube.com/embed/foIskH1decE",
       "#title": "Inty",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/yBG46oe-MQA",
+      "#id": " https://www.youtube.com/embed/60At6dQ0_nY",
       "#title": "Inty",
       "active": true
     },
@@ -53,13 +41,13 @@
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/s1Tg9f64A2s",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
     {
       "type": "youtube",
       "#id": " https://www.youtube.com/embed/T0rnHgP0xfE",
       "#title": "Inty",
-      "active": true
+      "active": false
     },
 
 
