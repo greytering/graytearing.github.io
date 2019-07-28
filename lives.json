@@ -15,12 +15,6 @@
     },
     {
       "type": "youtube",
-      "#id": " https://www.youtube.com/embed/bi2mzbpami8",
-      "#title": "OFFLINE",
-      "active": true
-    },
-    {
-      "type": "youtube",
       "#id": "https://www.youtube.com/embed/Vlt-8s00VKE",
       "#title": "RTHKcityforum",
       "active": true
